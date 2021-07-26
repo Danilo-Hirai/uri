@@ -47,6 +47,5 @@ public class Main {
         System.out.printf("TRAPEZIO: %.3f%n",(Trapezio));
         System.out.printf("QUADRADO: %.3f%n",(Quadrado));
         System.out.printf("RETANGULO: %.3f%n",(Retangulo));
-    }
- 
+    } 
 }
